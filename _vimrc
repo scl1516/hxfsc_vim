@@ -619,6 +619,10 @@ if has('gui_running') && has("win32")
         au GUIEnter * simalt ~x
 endif
 
+" git test
+" git test
+" git test
+
 
 
 " CodeAnalyzer
